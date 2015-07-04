@@ -87,3 +87,7 @@ footer {
 header, section, footer, aside, article, figure {
 	display: block;
 }
+
+lato_font {
+	font-family: 'Lato', sans-serif;
+}
