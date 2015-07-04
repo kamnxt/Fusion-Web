@@ -46,7 +46,7 @@ header {
 .sidebar1 {
 	float: left;
 	width: 180px;
-	background-color: #2daae1;
+	background-color: #dadada;
 	padding-bottom: 10px;
 	box-shadow: 10px 10px 5px #888888;
 }
@@ -73,7 +73,7 @@ nav a, nav a:visited {
 	display: block; 
 	width: 160px;  
 	text-decoration: none;
-	background-color: #27B9E1;
+	background-color: #dadada;
 }
 nav a:hover, nav a:active, nav a:focus { 
 	background-color: #27B9E1;
