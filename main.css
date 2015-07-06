@@ -34,13 +34,13 @@ a:hover, a:active, a:focus {
 
 .container {
 	width: 960px;
-	background-color: #dadada;
+	background-color: #333333;
 	margin: 0 auto; 
 }
 
 header {
 	background-color: #dadada;
-	box-shadow: 0px 10px 5px #888888;
+	box-shadow: 0px 10px 5px #191919;
 }
 
 .sidebar1 {
@@ -48,7 +48,7 @@ header {
 	width: 180px;
 	background-color: #dadada;
 	padding-bottom: 10px;
-	box-shadow: 10px 10px 5px #888888;
+	box-shadow: 10px 10px 5px #191919;
 }
 .content {
 	padding: 10px 0;
