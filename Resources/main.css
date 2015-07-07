@@ -58,11 +58,48 @@ header {
 
 nav ul{
 	list-style: none; 
-	border-top: 1px solid #666; 
 	margin-bottom: 15px; 
 }
 nav li {
-	border-bottom: 1px solid #666; 
+	font-size: 19pt;
+	color: #2daae1;
+}
+
+nav li a
+{
+	color: #2daae1;
+}
+
+.disabled
+{
+	color: #a3a3a3;
+}
+
+.disabled a:hover
+{
+	color: inherit;
+	background-color: inherit;
+}
+
+.disabled a
+{
+	color: inherit;
+}
+
+a:link
+{
+	color: inherit;
+}
+
+ul
+{
+	display: flex;
+	flex-direction: row;
+}
+
+a:active, a:hover, a:visited
+{
+	color: inherit;
 }
 nav a, nav a:visited { 
 	padding: 5px 5px 5px 15px;
