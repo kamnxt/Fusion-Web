@@ -127,6 +127,17 @@ lato_font {
 	font-family: 'Lato', sans-serif;
 }
 
+object
+{
+	pointer-events: none;
+}
+
+.logo
+{
+	display: inline-block;
+}
+
+
 @media screen and (max-width: 800px)
 {
 	ul
