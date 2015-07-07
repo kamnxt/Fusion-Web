@@ -132,5 +132,11 @@ lato_font {
 	ul
 	{
 		flex-direction: column;
+		width: 100%;
+	}
+	li a
+	{
+		width: 100%;
+		text-align: center;
 	}
 }
