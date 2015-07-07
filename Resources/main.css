@@ -126,3 +126,11 @@ header, section, footer, aside, article, figure {
 lato_font {
 	font-family: 'Lato', sans-serif;
 }
+
+@media screen and (max-width: 800px)
+{
+	ul
+	{
+		flex-direction: column;
+	}
+}
